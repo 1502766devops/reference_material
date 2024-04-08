@@ -150,6 +150,8 @@ pipeline-stage-tags-metadata
 pipeline-stage-view
 pipeline-utility-steps
 plain-credentials
+prometheus
+promoted-builds
 pubsub-light
 pull-request-monitoring
 resource-disposer
@@ -159,6 +161,7 @@ saml
 scalable-amazon-ecs
 scm-api
 script-security
+seed
 servicenow-devops
 simple-theme-plugin
 slack
