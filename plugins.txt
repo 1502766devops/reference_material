@@ -148,7 +148,6 @@ scalable-amazon-ecs
 scm-api
 script-security
 seed
-servicenow-devops
 simple-theme-plugin
 slack
 snakeyaml-api
